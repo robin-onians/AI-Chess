@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Winsock Server.cpp
+C:\Users\robin\Desktop\New folder\Winsock Server\Winsock Server.cpp(58,6): warning C4101: 'pieceIndex': unreferenced local variable
+C:\Users\robin\Desktop\New folder\Winsock Server\Winsock Server.cpp(60,6): warning C4101: 'squarePosj': unreferenced local variable
+C:\Users\robin\Desktop\New folder\Winsock Server\Winsock Server.cpp(57,6): warning C4101: 'colourPiece': unreferenced local variable
+C:\Users\robin\Desktop\New folder\Winsock Server\Winsock Server.cpp(59,6): warning C4101: 'squarePosi': unreferenced local variable
+  Winsock Server.vcxproj -> C:\Users\robin\Desktop\New folder\Debug\Winsock Server.exe
